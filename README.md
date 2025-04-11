@@ -1,4 +1,4 @@
-# EECS348 Lab 9
+# EECS348 Lab 9 - Vatsa
 
 This is a template for Lab 9 with continuous integration testing set up in a
 [GitHub Actions workflow](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions).
